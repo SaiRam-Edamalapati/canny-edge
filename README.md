@@ -1,8 +1,7 @@
 # WORK SHOP: 03CANNY EDGE DETECTION
 
-<H3>Name: DHANUSH C</H3>
-<H3>Register no: 212224040066</H3>
-<H3>Date: 14.10.2025 </H3>
+<H3>Name: Sai Ram E</H3>
+<H3>Register no: 212224240141</H3>
 
 # AIM:
 To perform Canny Edge Detection model through your laptop.
@@ -32,7 +31,4 @@ plt.show()
 
 # OUTPUT:
 
-<img width="969" height="546" alt="Screenshot 2025-10-14 150936" src="https://github.com/user-attachments/assets/4f0d3404-ff4f-4608-8239-62f20acd4b0c" />
-
-
- 
+<img width="794" height="236" alt="image" src="https://github.com/user-attachments/assets/c875723e-7b4f-439c-a5d2-e65f93858cae" /> 
